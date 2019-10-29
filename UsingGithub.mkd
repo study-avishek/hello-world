@@ -1,0 +1,47 @@
+## Intro to Github and git
+
+> This is just a short overview of the main points you gotta know for using github and git.<br />
+> Git is actually the language for github, so I'd be speaking in terms of github in general.
+
+_Hello there!_
+<br /><br />
+
+## First of all, what all can you do via Github?
+Github is a *version control* system. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. So, it's definitely useful when you're working on some project - say app development for instance. Plus, on keeping the repository public, you are open to open source contributors who might helo you in your project as well. (Just like I'm doing right now :P)
+<br /><br />You must be knowing by now that there are two ways of using github - one is through the site. It's definitely easier to learn since there's nothing much except clicking and clicking. So let's first know what these repositories are and all the features in them. I see you already know how to create repositories and setting them up...
+<br /><br /><br />
+
+## Diving into Repositories
+<br />
+Just have a look at the following image<br /><br />
+
+<img src = "https://help.github.com/assets/images/help/repository/repo-main-page.png" width = 1000x>
+
+<h5 id = "code">Code</h5> 
+This is like the home of a repository where you can find all your uploaded files and the ReadMe open below. Now ReadMe is very important here as it generally is used to cover what all is there in your repository - a documentation of your repo and the same is what the Wiki section is for. It's generally written in Markdown language or even HTML.
+<br /><h5 id = "Issue">Issue</h5> 
+As the name suggests, all issues - in Pull Requests or in codes uploaded which you have marked for Issue, appear here.
+<br /><h5 id = "PR">Pull Requests</h5>
+All PRs - either from open source contributors or by the team the repository owner is working with or by the repository owner himself appear here.
+<br /><h5 id = "Projects">Projects</h5>
+This is very helpful when you're working on some projects - it has to do lists, file manager sections and a lot more!
+<br /><h5 id = "Wiki">Wiki</h5>
+It's where you create the documentation of your repo or your project - github offers you URL for each wiki. So you can have a site on your own for every project and you can directly link those in your LinkedIn or CV!
+<br /><h5 id = "security">Security</h5>
+Boring part.
+<br /><h5 id = "Insights">Insights</h5>
+Gives an overview of your Repository.
+<br /><br /><br />
+
+## Exploring Other Repositories
+To do this, simply click on the Github icon on the top left and you'll enter the github community. Now simply look up for what kind of repositories you are looking for by typing in the keywords in the Search Box and you're good to go.
+You do have an insight of open source contribution so it won't be much of a fuss. Just keep reading the codes that have been uploaded. Find errors or recommend better changes in the code via PRs!
+<br /><br /><br />
+
+## Learning Git and Markdown
+[Learn Git From Here](https://try.github.io/)<br />
+[Learn Markdown from here](https://www.markdownguide.org/extended-syntax/)
+<br /><br />
+
+***Thank you!***<br />
+[DeathNaughT-](https://github.com/DeathNaughT-GitHub)
